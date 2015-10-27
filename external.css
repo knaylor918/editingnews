@@ -1,0 +1,21 @@
+.gray-box{
+		background-color: gray;
+		font-size: 18px;
+		color: white;
+		opacity: .75;
+		height:45px;
+		width:100%; 
+		text-align: center; 
+		margin: 0;
+		}
+.sub-heads{
+	color: gray;
+	margin-bottom: 5px;
+	}
+.lines{
+	line-height: 1.4;
+	margin-top: 0;
+}
+.lines li{
+	padding-top: 10px;
+}
