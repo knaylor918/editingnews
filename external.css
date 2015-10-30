@@ -1,7 +1,7 @@
 .gray-box{
-		background-color: gray;
+		background-color: #565656;
 		font-size: 18px;
-		color: white;
+		color: #D1D1D1;
 		opacity: .75;
 		height:45px;
 		width:100%; 
@@ -9,7 +9,7 @@
 		margin: 0;
 		}
 .sub-heads{
-	color: gray;
+	color: #939393;
 	margin-bottom: 5px;
 	}
 .lines{
